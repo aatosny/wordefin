@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Name=Wordefin
+Comment=A simple studying tool
+Exec=wordefin -g
+Icon=/usr/share/wordefin/logo.svg
+Terminal=false
+Type=Application
+Categories=Utility;Education;

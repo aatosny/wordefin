@@ -1,0 +1,17 @@
+
+Wordefin - A Compact Studying Tool
+
+Usage: wordefin [options]
+
+Options:
+	-h, --help	Outputs this page.
+
+	-g			Launches Wordefin GUI.
+
+	-t 			Launches Wordefin in current terminal.
+
+Default (no options given) is to launch Wordefin in current terminal (same as -t flag.
+
+Wordefin is a simple GUI/TUI studying tool, coded in perl and bash. It allows you to find word definitions based on .txt/.md/.lst word lists. Any desired word lists should be located in ~/Wordefin/ and in a similiar format to ~/Wordefin/example.txt. 
+
+<https://github.com/aatosny/wordefin>
