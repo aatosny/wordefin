@@ -12,7 +12,6 @@ Tested on Fedora 40 and MacOS 10.15. Should work on any GNU/Linux Distribution.
 **Required:**
 * Perl
 * Gtk3 (the Gtk3 perl module)
-* Make
 * Git
 
 ### Installing
